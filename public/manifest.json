@@ -2,14 +2,14 @@
   "name": "Pill Tracker",
   "short_name": "Pill Tracker",
   "description": "Track your daily birth control pill",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#f2f2f7",
   "theme_color": "#ec4899",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/icon.svg",
+      "src": "./icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"
