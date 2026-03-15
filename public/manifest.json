@@ -2,7 +2,7 @@
   "name": "Pill Tracker",
   "short_name": "Pill Tracker",
   "description": "Track your daily birth control pill",
-  "start_url": "./",
+  "start_url": "./birth-control-tracker",
   "display": "standalone",
   "background_color": "#f2f2f7",
   "theme_color": "#ec4899",
